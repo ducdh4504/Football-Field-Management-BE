@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: football-field-management-be
+  profiles:
+    default: local
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
